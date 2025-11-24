@@ -1,0 +1,5 @@
+Lancer gitBash (cfr. icône Git Bash sur le bureau) et exécuter les commandes suivantes
+
+git clone https://github.com/jptraining/jenkins
+cd jenkins
+vagrant up
